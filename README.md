@@ -15,12 +15,12 @@ To install and run this project, follow these steps:
 
 1. Clone the repository:
     ```
-    git clone https://github.com/manishguhe301/weather_app.git
+    git clone https://github.com/manishguhe301/weather_forecast.git
     ```
 
 2. Navigate to the project directory:
     ```
-    cd weather_app
+    cd weather_forecast
     ```
 
 3. Install the dependencies:
